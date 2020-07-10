@@ -54,7 +54,7 @@ logo = """
 \033[0;39m █▒▒▒█▒█▒█▒▒▒█▒█
 \033[0;39m ███▒███▒███▒███
 \033[0;39m╔▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬╗
-\033[0;39m║\033[0;36m* \033[0;36mAuthor  \033[1;36m : \033[1;31mHACKR•|Haji Mahdi\033[0;31m║
+\033[0;39m║\033[0;36m* \033[0;36mAuthor  \033[1;36m : \033[1;31mHACKER•|Haji Mahdi\033[0;31m║
 \033[0;39m║\033[1;33m* \033[1;33mGitHub  \033[1;33m : \033[1;33m\033[4mhttps:// https://github.com/Haji-Mahdi\033[0m \033[0;31m║
 \033[0;39m║\033[0;36m* \033[0;32mTelegram \033[1;32m: \033[1;32mt.me/Haji_Mahdi_OffiCial \033[0;31m║
 \033[0;34m╚▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬╝"""
@@ -62,7 +62,7 @@ logo = """
 def tik():
 	titik = ['.   ','..  ','... ']
 	for o in titik:
-		print("\r\033[1;96m[●] \x1b[1;93mSedang masuk \x1b[1;97m"+o),;sys.stdout.flush();time.sleep(1)
+		print("\r\033[1;96m[●] \x1b[1;93mSigning in ... \x1b[1;97m"+o),;sys.stdout.flush();time.sleep(1)
 
 
 back = 0
